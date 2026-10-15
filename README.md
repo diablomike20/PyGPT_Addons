@@ -1,6 +1,6 @@
 # Official PyGPT Add-ons repository
 
-**Last updated:** 2026-10-01
+**Last updated:** 2026-10-16
 
 This is the official add-ons repository and public catalog for [PyGPT](https://github.com/szczyglis-dev/py-gpt). It contains the registries used by PyGPT to discover **official** and **third-party/community** add-ons, together with additional installable resources such as Agent Skills and MCP Connectors.
 
